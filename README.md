@@ -1,1 +1,5 @@
-# DS4002_CS2
+# Case Study Final Assignment
+
+## Data
+
+## Materials
