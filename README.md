@@ -14,4 +14,4 @@ To understand how to use the declination angle in the context of gerrymandering,
 
 To understand the math behind the declination function, use [this article](https://observablehq.com/@sahilchinoy/gerrymandering-the-declination-function).
 
-To understand how to calculate the pixels in an image, use [this source]().
+
